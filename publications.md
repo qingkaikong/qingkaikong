@@ -16,6 +16,8 @@ excerpt: "My publications"
 
 ## Submitted
 
+[*Journal*] **Qingkai Kong**, Ruijia Wang, William Walter, Moira Pyle, Keith Koper, Brandon Schmandt "Combining Deep Learning with Physics Based Features in Explosion-Earthquake Discrimination" [arXiv](http://arxiv.org/abs/2203.06347)
+
 [*Journal*] M. Giselle Fernández-Godino, Donald D. Lucas, **Qingkai Kong** "Learning Physics through Images: An Application to Wind-Driven Spatial Patterns" [arXiv](https://arxiv.org/abs/2202.01762)
 
 [*Journal*] Gaurav Chachra, **Qingkai Kong**, Jim Huang, Srujay Korlakunta, Jennifer Grannen, Alexander Robson, Richard Allen "Detecting Damage Building Using Real-time Crowdsourced Images and Transfer Learning" [arXiv](https://arxiv.org/abs/2110.05762)
@@ -36,7 +38,7 @@ excerpt: "My publications"
 
 [*Journal*] **Qingkai Kong**, Andrea Chiang, Ana C. Aguiar, M. Giselle Fernández-Godino, Stephen C. Myers, Donald D. Lucas "Deep Convolutional Autoencoders as Generic Feature Extractors in Seismological Applications" Artificial Intelligence in Geosciences, Volume 2, (2021), Pages 96-106, https://doi.org/10.1016/j.aiig.2021.12.002 [*Link*](https://www.sciencedirect.com/science/article/pii/S2666544121000319), [*PDF*](https://www.sciencedirect.com/sdfe/reader/pii/S2666544121000319/pdf)
 
-[**Journal**] Yixiao Sheng, **Qingkai Kong**, Gregory Beroza. "Network Analysis of Earthquake Ground Motion Spatial Correlation: A Case Study with the San Jacinto Seismic Nodal Array" Geophysical Journal International, Volume 225, Issue 3, June 2021, Pages 1704–1713, https://doi.org/10.1093/gji/ggab058 [*Link*](https://academic.oup.com/gji/article-abstract/225/3/1704/6134073), [*PDF*](https://www.dropbox.com/s/hvxgnuce2cbk64i/20_Sheng_et_al_Geophysical_Journal_International_2021.pdf?dl=0)
+[*Journal*] Yixiao Sheng, **Qingkai Kong**, Gregory Beroza. "Network Analysis of Earthquake Ground Motion Spatial Correlation: A Case Study with the San Jacinto Seismic Nodal Array" Geophysical Journal International, Volume 225, Issue 3, June 2021, Pages 1704–1713, https://doi.org/10.1093/gji/ggab058 [*Link*](https://academic.oup.com/gji/article-abstract/225/3/1704/6134073), [*PDF*](https://www.dropbox.com/s/hvxgnuce2cbk64i/20_Sheng_et_al_Geophysical_Journal_International_2021.pdf?dl=0)
 
 
 
