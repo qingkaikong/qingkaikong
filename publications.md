@@ -22,8 +22,6 @@ excerpt: "My publications"
 
 [*Journal*] M. Giselle Fernández-Godino, Donald D. Lucas, **Qingkai Kong** "Learning Physics through Images: An Application to Wind-Driven Spatial Patterns" [arXiv](https://arxiv.org/abs/2202.01762)
 
-[*Journal*] Gaurav Chachra, **Qingkai Kong**, Jim Huang, Srujay Korlakunta, Jennifer Grannen, Alexander Robson, Richard Allen "Detecting Damage Building Using Real-time Crowdsourced Images and Transfer Learning" [arXiv](https://arxiv.org/abs/2110.05762)
-
 ---
 
 ## Books Published
@@ -33,6 +31,8 @@ excerpt: "My publications"
 ## Papers Published
 
 ### 2022
+
+[*Journal*] Gaurav Chachra, **Qingkai Kong**, Jim Huang, Srujay Korlakunta, Jennifer Grannen, Alexander Robson, Richard Allen "Detecting Damage Building Using Real-time Crowdsourced Images and Transfer Learning" Accepted by Scientific Reports, [arXiv](https://arxiv.org/abs/2110.05762)
 
 [*Journal*] Tao Ruan, **Qingkai Kong**, Sara K. McBride, Amatullah Sethjiwala, Qin Lv "Cross-platform analysis of public responses to the 2019 Ridgecrest earthquake sequence on Twitter and Reddit" Scientific Reports, 12, 1634 (2022). https://doi.org/10.1038/s41598-022-05359-9 [*Link*](https://www.nature.com/articles/s41598-022-05359-9), [*PDF*](https://www.nature.com/articles/s41598-022-05359-9.pdf)
 
