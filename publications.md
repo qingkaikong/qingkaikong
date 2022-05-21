@@ -18,8 +18,6 @@ excerpt: "My publications"
 
 [*Journal*] **Qingkai Kong**, Richard M. Allen, Steven Allen, Theron Bair, Akie Mejia, Sarina Petel, Jennifer Strauss, Stephen Thompson . "Crowdsourcing Felt Reports Using the MyShake Smartphone App" [arXiv](https://arxiv.org/abs/2204.12675)
 
-[*Journal*] **Qingkai Kong**, Ruijia Wang, William Walter, Moira Pyle, Keith Koper, Brandon Schmandt "Combining Deep Learning with Physics Based Features in Explosion-Earthquake Discrimination" [arXiv](http://arxiv.org/abs/2203.06347)
-
 [*Journal*] M. Giselle Fernández-Godino, Donald D. Lucas, **Qingkai Kong** "Learning Physics through Images: An Application to Wind-Driven Spatial Patterns" [arXiv](https://arxiv.org/abs/2202.01762)
 
 ---
@@ -31,6 +29,8 @@ excerpt: "My publications"
 ## Papers Published
 
 ### 2022
+
+[*Journal*] **Qingkai Kong**, Ruijia Wang, William Walter, Moira Pyle, Keith Koper, Brandon Schmandt "Combining Deep Learning with Physics Based Features in Explosion-Earthquake Discrimination" Accepted by Geophysical Research Letters, [arXiv](http://arxiv.org/abs/2203.06347)
 
 [*Journal*] Gaurav Chachra, **Qingkai Kong**, Jim Huang, Srujay Korlakunta, Jennifer Grannen, Alexander Robson, Richard Allen "Detecting Damage Building Using Real-time Crowdsourced Images and Transfer Learning" Accepted by Scientific Reports, [arXiv](https://arxiv.org/abs/2110.05762)
 
