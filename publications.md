@@ -32,15 +32,15 @@ excerpt: "My publications"
 
 [*Journal*] **Qingkai Kong**, Ruijia Wang, William Walter, Moira Pyle, Keith Koper, Brandon Schmandt "Combining Deep Learning with Physics Based Features in Explosion-Earthquake Discrimination" Accepted by Geophysical Research Letters, [arXiv](http://arxiv.org/abs/2203.06347)
 
-[*Journal*] Gaurav Chachra, **Qingkai Kong**, Jim Huang, Srujay Korlakunta, Jennifer Grannen, Alexander Robson, Richard Allen "Detecting Damage Building Using Real-time Crowdsourced Images and Transfer Learning". Scientific Reports, 12, 8968, doi: 10.1038/s41598-022-12965-0 [Link](https://www.nature.com/articles/s41598-022-12965-0), [*PDF*](https://www.nature.com/articles/s41598-022-12965-0.epdf)
+[*Journal*] Gaurav Chachra, **Qingkai Kong**, Jim Huang, Srujay Korlakunta, Jennifer Grannen, Alexander Robson, Richard Allen "Detecting Damage Building Using Real-time Crowdsourced Images and Transfer Learning". Scientific Reports, 12, 8968 (2022). doi: 10.1038/s41598-022-12965-0 [Link](https://www.nature.com/articles/s41598-022-12965-0), [*PDF*](https://www.nature.com/articles/s41598-022-12965-0.epdf)
 
 [*Journal*] Tao Ruan, **Qingkai Kong**, Sara K. McBride, Amatullah Sethjiwala, Qin Lv "Cross-platform analysis of public responses to the 2019 Ridgecrest earthquake sequence on Twitter and Reddit" Scientific Reports, 12, 1634 (2022). doi: 10.1038/s41598-022-05359-9 [*Link*](https://www.nature.com/articles/s41598-022-05359-9), [*PDF*](https://www.nature.com/articles/s41598-022-05359-9.pdf)
 
 ### 2021
 
-[*Journal*] **Qingkai Kong**, Andrea Chiang, Ana C. Aguiar, M. Giselle Fernández-Godino, Stephen C. Myers, Donald D. Lucas "Deep Convolutional Autoencoders as Generic Feature Extractors in Seismological Applications" Artificial Intelligence in Geosciences, Volume 2, (2021), Pages 96-106, https://doi.org/10.1016/j.aiig.2021.12.002 [*Link*](https://www.sciencedirect.com/science/article/pii/S2666544121000319), [*PDF*](https://www.sciencedirect.com/sdfe/reader/pii/S2666544121000319/pdf)
+[*Journal*] **Qingkai Kong**, Andrea Chiang, Ana C. Aguiar, M. Giselle Fernández-Godino, Stephen C. Myers, Donald D. Lucas "Deep Convolutional Autoencoders as Generic Feature Extractors in Seismological Applications" Artificial Intelligence in Geosciences, Volume 2, (2021), Pages 96-106, doi: 10.1016/j.aiig.2021.12.002 [*Link*](https://www.sciencedirect.com/science/article/pii/S2666544121000319), [*PDF*](https://www.sciencedirect.com/sdfe/reader/pii/S2666544121000319/pdf)
 
-[*Journal*] Yixiao Sheng, **Qingkai Kong**, Gregory Beroza. "Network Analysis of Earthquake Ground Motion Spatial Correlation: A Case Study with the San Jacinto Seismic Nodal Array" Geophysical Journal International, Volume 225, Issue 3, June 2021, Pages 1704–1713, https://doi.org/10.1093/gji/ggab058 [*Link*](https://academic.oup.com/gji/article-abstract/225/3/1704/6134073), [*PDF*](https://www.dropbox.com/s/hvxgnuce2cbk64i/20_Sheng_et_al_Geophysical_Journal_International_2021.pdf?dl=0)
+[*Journal*] Yixiao Sheng, **Qingkai Kong**, Gregory Beroza. "Network Analysis of Earthquake Ground Motion Spatial Correlation: A Case Study with the San Jacinto Seismic Nodal Array" Geophysical Journal International, Volume 225, Issue 3, June 2021, Pages 1704–1713, doi: 10.1093/gji/ggab058 [*Link*](https://academic.oup.com/gji/article-abstract/225/3/1704/6134073), [*PDF*](https://www.dropbox.com/s/hvxgnuce2cbk64i/20_Sheng_et_al_Geophysical_Journal_International_2021.pdf?dl=0)
 
 
 
