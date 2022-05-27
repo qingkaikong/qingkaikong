@@ -32,9 +32,9 @@ excerpt: "My publications"
 
 [*Journal*] **Qingkai Kong**, Ruijia Wang, William Walter, Moira Pyle, Keith Koper, Brandon Schmandt "Combining Deep Learning with Physics Based Features in Explosion-Earthquake Discrimination" Accepted by Geophysical Research Letters, [arXiv](http://arxiv.org/abs/2203.06347)
 
-[*Journal*] Gaurav Chachra, **Qingkai Kong**, Jim Huang, Srujay Korlakunta, Jennifer Grannen, Alexander Robson, Richard Allen "Detecting Damage Building Using Real-time Crowdsourced Images and Transfer Learning" Accepted by Scientific Reports, [arXiv](https://arxiv.org/abs/2110.05762)
+[*Journal*] Gaurav Chachra, **Qingkai Kong**, Jim Huang, Srujay Korlakunta, Jennifer Grannen, Alexander Robson, Richard Allen "Detecting Damage Building Using Real-time Crowdsourced Images and Transfer Learning". Scientific Reports, 12, 8968, doi: 10.1038/s41598-022-12965-0 [Link](https://www.nature.com/articles/s41598-022-12965-0), [*PDF*](https://www.nature.com/articles/s41598-022-12965-0.epdf)
 
-[*Journal*] Tao Ruan, **Qingkai Kong**, Sara K. McBride, Amatullah Sethjiwala, Qin Lv "Cross-platform analysis of public responses to the 2019 Ridgecrest earthquake sequence on Twitter and Reddit" Scientific Reports, 12, 1634 (2022). https://doi.org/10.1038/s41598-022-05359-9 [*Link*](https://www.nature.com/articles/s41598-022-05359-9), [*PDF*](https://www.nature.com/articles/s41598-022-05359-9.pdf)
+[*Journal*] Tao Ruan, **Qingkai Kong**, Sara K. McBride, Amatullah Sethjiwala, Qin Lv "Cross-platform analysis of public responses to the 2019 Ridgecrest earthquake sequence on Twitter and Reddit" Scientific Reports, 12, 1634 (2022). doi: 10.1038/s41598-022-05359-9 [*Link*](https://www.nature.com/articles/s41598-022-05359-9), [*PDF*](https://www.nature.com/articles/s41598-022-05359-9.pdf)
 
 ### 2021
 
