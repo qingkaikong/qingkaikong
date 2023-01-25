@@ -18,7 +18,6 @@ excerpt: "My publications"
 
 [*Journal*] **Qingkai Kong**, Richard M. Allen, Steven Allen, Theron Bair, Akie Mejia, Sarina Petel, Jennifer Strauss, Stephen Thompson . "Crowdsourcing Felt Reports Using the MyShake Smartphone App" [arXiv](https://arxiv.org/abs/2204.12675)
 
-[*Journal*] M. Giselle Fernández-Godino, Donald D. Lucas, **Qingkai Kong** "Learning Physics through Images: An Application to Wind-Driven Spatial Patterns" [arXiv](https://arxiv.org/abs/2202.01762)
 
 ---
 
@@ -27,6 +26,10 @@ excerpt: "My publications"
 **Qingkai Kong**, Timmy Siauw, Alexandre M. Bayen. "Python Programming and Numerical Methods: A Guide for Engineers and Scientists" Academic Press, ISBN: 9780128195499. [*book site*](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html), [Errata](https://docs.google.com/spreadsheets/d/1ngYw863fKHCjWCtvHUN3iJB1CqpfUgkfn_N2afgtZLs/edit?usp=sharing), [Solutions](https://github.com/qingkaikong/PythonNumericalMethod_Solutions) (still working on), [*buy on Amazon*](https://www.amazon.com/Python-Programming-Numerical-Methods-Scientists/dp/0128195495/)    
 
 ## Papers Published
+
+### 2023 
+
+[*Journal*] M. Giselle Fernández-Godino, Donald D. Lucas, **Qingkai Kong** "Learning Physics through Images: An Application to Wind-Driven Spatial Patterns" Scientific Reports, doi: 10.1038/s41598-023-28590-4 [Link](https://www.nature.com/articles/s41598-023-28590-4), [*PDF*](https://www.nature.com/articles/s41598-023-28590-4.pdf)    
 
 ### 2022
 
