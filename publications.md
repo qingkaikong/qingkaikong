@@ -29,7 +29,7 @@ excerpt: "My publications"
 
 ### 2023 
 
-[*Journal*] M. Giselle Fernández-Godino, Donald D. Lucas, **Qingkai Kong** "Learning Physics through Images: An Application to Wind-Driven Spatial Patterns" Scientific Reports, doi: 10.1038/s41598-023-28590-4 [Link](https://www.nature.com/articles/s41598-023-28590-4), [*PDF*](https://www.nature.com/articles/s41598-023-28590-4.pdf)    
+[*Journal*] M. Giselle Fernández-Godino, Donald D. Lucas, **Qingkai Kong** "Predicting wind-driven spatial deposition through simulated color images using deep autoencoders" Scientific Reports, doi: 10.1038/s41598-023-28590-4 [Link](https://www.nature.com/articles/s41598-023-28590-4), [*PDF*](https://www.nature.com/articles/s41598-023-28590-4.pdf)    
 
 ### 2022
 
