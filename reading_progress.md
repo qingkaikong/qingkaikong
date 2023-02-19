@@ -18,7 +18,7 @@ To finish the GGB, the total pages of this 10 vol set is 5046 pages, so the plan
 
 ## Progress
 
-<center><img src="images/progress.jpg" alt="Progress" style="width: 600px;"/></center>
+<center><img src="https://github.com/qingkaikong/qingkaikong.github.io/raw/main/images/progress.jpg" alt="Progress" style="width: 600px;"/></center>
 
 > Week 2 (Feb 20-26, 2023): 
 * "The Moral Obligation to Be Intelligent" by John Erskine (GGB Vol. 10, pp. 1-13)    
