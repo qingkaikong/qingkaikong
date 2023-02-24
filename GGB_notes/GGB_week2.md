@@ -28,8 +28,9 @@ I also think it is interesting that "when this emphasis upon the will became a s
 I don't quite agree with what his reasons for this moral obligation (or maybe I didn't quite understand). What he gave are (1) because we believe it is life, and we believe it is the will of God (2) intelligence changes most fears into opportunity (3) Intelligence unites us with mankind. 
 
 We had some discussions, and here are some interesting points:
-* in the past, the class who rules the country dosen't want the lower classes to have intelligence, this is good for their control. 
+* in the past, the class who rules the country dosen't want the lower classes to have intelligence, this is good for their control.   
 * Bible is the educational material for a lot of people to learn which is also more emphasis on moral. 
+
 ---
 
 **Of Youth and Age**
