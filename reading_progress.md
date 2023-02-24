@@ -20,6 +20,20 @@ To finish the GGB, the total pages of this 10 vol set is 5046 pages, so the plan
 
 <center><img src="https://github.com/qingkaikong/qingkaikong.github.io/raw/main/images/progress.jpg" alt="Progress" style="width: 600px;"/></center>
 
+> Week 3 (Feb 27 - March 5, 2023): 
+* "Of Truth" and "Of Death" by Francis Bacon (GGB Vol. 10, pp. 344 - 349)   
+* "Mathematics, in Life and Thought" by Andrew Russell Forsyth (GGB  Vol. 9, pp. 24-46)    
+* "Of Beauty", "Of Discourse", "Of studies" by Francis Bacon (GGB Vol. 5, pp. 90 - 98)   
+* "Robinson Crusoe" by Daniel Defoe (GGB, Vol. 2, pp. 1 - 39)
+* "Childhood and Youth" by John Stuart Mill from Autobiography (GBB Vol. 6, pp. 24-47)  
+* "Of Parents and Children" and "Of Marriage and Single life" by Francis Bacon (GGB Vol. 7, pp. 5-8)  
+  
+---
+
+## Done
+
+### Year 2023
+
 > Week 2 (Feb 20-26, 2023): 
 * "The Moral Obligation to Be Intelligent" by John Erskine (GGB Vol. 10, pp. 1-13)    
 * "How Should One Read a Book?" by Virginia Woolf (GGB Vol. 5, pp. 1-14)    
@@ -27,12 +41,6 @@ To finish the GGB, the total pages of this 10 vol set is 5046 pages, so the plan
 * "Of Youth and Age" by Francis Bacon (GGB Vol. 7, pp. 1-4)    
 * "Childhood and Youth" by John Stuart Mill from Autobiography (GBB Vol. 6, pp. 1-23)    
 * "The Open Boat" by Crane (GGB Vol. 3, pp. 1-26)   
-  
----
-
-## Done
-
-### Year 2023
 
 > Week 1 (Feb 13-19, 2023):
 * "Letter to the Reader" and "Introduction" by Robert Hutchins (GGB Vol. 1, pp. 1-108)  
