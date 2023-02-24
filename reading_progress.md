@@ -34,7 +34,7 @@ To finish the GGB, the total pages of this 10 vol set is 5046 pages, so the plan
 
 ### Year 2023
 
-> Week 2 (Feb 20-26, 2023): 
+> [Week 2 (Feb 20-26, 2023)](https://qingkaikong.github.io/GGB_notes/GGB_week2/): 
 * "The Moral Obligation to Be Intelligent" by John Erskine (GGB Vol. 10, pp. 1-13)    
 * "How Should One Read a Book?" by Virginia Woolf (GGB Vol. 5, pp. 1-14)    
 * "Mathematics, the Mirror of Civilization" by Lancelot Hogben (GGB Vol. 9, pp. 1-23)   
@@ -42,5 +42,5 @@ To finish the GGB, the total pages of this 10 vol set is 5046 pages, so the plan
 * "Childhood and Youth" by John Stuart Mill from Autobiography (GBB Vol. 6, pp. 1-23)    
 * "The Open Boat" by Crane (GGB Vol. 3, pp. 1-26)   
 
-> Week 1 (Feb 13-19, 2023):
+> [Week 1 (Feb 13-19, 2023)](https://qingkaikong.github.io/GGB_notes/GGB_week1/):
 * "Letter to the Reader" and "Introduction" by Robert Hutchins (GGB Vol. 1, pp. 1-108)  

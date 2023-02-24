@@ -6,6 +6,8 @@ excerpt: "Notes"
 
 ## Week 2
 
+<center><img src="https://github.com/qingkaikong/qingkaikong.github.io/raw/main/images/GGB_img/progress_week_2.jpg" alt="Progress" style="width: 600px;"/></center>
+
 > Week 2 (Feb 20-26, 2023): 
 * "The Moral Obligation to Be Intelligent" by John Erskine (GGB Vol. 10, pp. 1-13)    
 * "How Should One Read a Book?" by Virginia Woolf (GGB Vol. 5, pp. 1-14)    
