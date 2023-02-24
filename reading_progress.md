@@ -23,8 +23,8 @@ To finish the GGB, the total pages of this 10 vol set is 5046 pages, so the plan
 > Week 2 (Feb 20-26, 2023): 
 * "The Moral Obligation to Be Intelligent" by John Erskine (GGB Vol. 10, pp. 1-13)    
 * "How Should One Read a Book?" by Virginia Woolf (GGB Vol. 5, pp. 1-14)    
-* "Mathematics, the Mirror of Civilization" by Lancelot Hogben (GGB Vol. 9, pp. 1-23)  
-* “Of Youth and Age” by Francis Bacon (GGB Vol. 7, pp. 1-4)    
+* "Mathematics, the Mirror of Civilization" by Lancelot Hogben (GGB Vol. 9, pp. 1-23)   
+* "Of Youth and Age" by Francis Bacon (GGB Vol. 7, pp. 1-4)    
 * "Childhood and Youth" by John Stuart Mill from Autobiography (GBB Vol. 6, pp. 1-23)    
 * "The Open Boat" by Crane (GGB Vol. 3, pp. 1-26)   
   
