@@ -14,7 +14,7 @@ excerpt: "Notes"
 * "Mathematics, the Mirror of Civilization" by Lancelot Hogben (GGB Vol. 9, pp. 1-23)  
 * "Of Youth and Age" by Francis Bacon (GGB Vol. 7, pp. 1-4)    
 * "Childhood and Youth" by John Stuart Mill from Autobiography (GBB Vol. 6, pp. 1-23)    
-* "The Open Boat" by Crane (GGB Vol. 3, pp. 1-26)    
+* "The Open Boat" by Stephen Crane (GGB Vol. 3, pp. 1-26)    
 
 For week 2, I start to read more of the different categories. 
 
