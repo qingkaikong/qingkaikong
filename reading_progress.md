@@ -4,7 +4,7 @@ title: Reading Progress
 excerpt: "Reading Progress"
 ---
 
-I finally get a whole set of [Gateway to the Great Books](https://en.wikipedia.org/wiki/Gateway_to_the_Great_Books) (GGB) (10 Volume set) and the [Britannica Great Books of the Western World](https://en.wikipedia.org/wiki/Great_Books_of_the_Western_World#Second_edition) (GBWW) (1993 version, 60 Volume set). I decide to go through these books in the next couple of years (10? 15? or 20?). I found there are some great reading plans online to guide you through these books, and one of them I really like is from the website of [The Western Tradition](https://westerntradition.wordpress.com/great-books-project/great-books-project-post-index/), though it later starts to add the GBWW to keep the speed to finish within 7 years. I prefer to finish the GGB first before entering into the GBWW series. So I decide to make my own plan. 
+I finally get a whole set of [Gateway to the Great Books](https://en.wikipedia.org/wiki/Gateway_to_the_Great_Books) (GGB) (10 Volume set) and the [Britannica Great Books of the Western World](https://en.wikipedia.org/wiki/Great_Books_of_the_Western_World#Second_edition) (GBWW) (1993 version, 60 Volume set). I decide to go through these books in the next couple of years (10? 15? or 20?). First finish GGB to practice my English reading, and then GBWW. I found there are some great reading plans online to guide you through these books, and one of them I really like is from the website of [The Western Tradition](https://westerntradition.wordpress.com/great-books-project/great-books-project-post-index/), though it later starts to add the GBWW pretty early to keep the speed to finish everything within 7 years. I prefer to finish the GGB first before entering into the GBWW series. So I decide to make my own plan. 
 
 To finish the GGB, the total pages of this 10 vol set is 5046 pages, so the plan is to read about 100 pages per week that distributed in the different types of books, which I can roughly finish around 1 year (if nothing stop me). From the two sets of the books, they have the following categories. 
 
@@ -20,13 +20,14 @@ To finish the GGB, the total pages of this 10 vol set is 5046 pages, so the plan
 
 <center><img src="https://github.com/qingkaikong/qingkaikong.github.io/raw/main/images/progress.jpg" alt="Progress" style="width: 600px;"/></center>
 
-> Week 4 (March 6 - March12, 2023): 
-* "Cosmic View" by Kees Boeke (GGB Vol. 8, pp. 597 - 644)   
-* "My first play" by Charles Lamb (GGB  Vol. 5, pp. 296-303)    
-* "Of Adversity" and "Of Love" by Francis Bacon (GGB Vol. 10, pp. 350 - 352)   
-* "Robinson Crusoe" by Daniel Defoe (GGB, Vol. 2, pp. 40 - 65)
-* "The English Bills of Rights" Great Documents (GBB Vol. 6, pp. 407-411)  
-* "The Lantern-Bearers" by Robert Louis Stevenson (GGB Vol. 7, pp. 110-121)  
+> Week 5 (March 13-19, 2023): 
+
+* "Michael Faraday" by John Tyndall (GGB Vol. 8, pp. 5 - 28)   
+* "Dream Children, a Reverie" and "Sanity of True Genius" by Charles Lamb (GGB  Vol. 5, pp. 304-310)    
+* "The Art of Life" by Walter Horatio Pater (GGB Vol. 10, pp. 255 - 261)   
+* "Robinson Crusoe" by Daniel Defoe (GGB, Vol. 2, pp. 66 - 94)
+* "Thoreau" Ralph Waldo Emerson (GBB Vol. 6, pp. 146-165)  
+* "The Man of Destiny" by George Bernard Shaw (GGB Vol. 4, pp. 300-338)  
   
 ---
 
@@ -34,7 +35,16 @@ To finish the GGB, the total pages of this 10 vol set is 5046 pages, so the plan
 
 ### Year 2023
 
-> [Week 3 (Feb 27 - March 5, 2023)](https://qingkaikong.github.io/GGB_notes/GGB_week3/): 
+> [Week 4 (March 6-12, 2023)](https://qingkaikong.github.io/GGB_notes/GGB_week4/): 
+
+* "Cosmic View" by Kees Boeke (GGB Vol. 8, pp. 597 - 644)   
+* "My first play" by Charles Lamb (GGB  Vol. 5, pp. 296-303)    
+* "Of Adversity" and "Of Love" by Francis Bacon (GGB Vol. 10, pp. 350 - 352)   
+* "Robinson Crusoe" by Daniel Defoe (GGB, Vol. 2, pp. 40 - 65)
+* "The English Bills of Rights" Great Documents (GBB Vol. 6, pp. 407-411)  
+* "The Lantern-Bearers" by Robert Louis Stevenson (GGB Vol. 7, pp. 110-121)  
+
+> [Week 3 (Feb 27 - March 5, 2023)](https://qingkaikong.github.io/GGB_notes/GGB_week3/):  
 * "Of Truth" and "Of Death" by Francis Bacon (GGB Vol. 10, pp. 344 - 349)   
 * "Mathematics, in Life and Thought" by Andrew Russell Forsyth (GGB  Vol. 9, pp. 24-46)    
 * "Of Beauty", "Of Discourse", "Of studies" by Francis Bacon (GGB Vol. 5, pp. 90 - 98)   
