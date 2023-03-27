@@ -20,7 +20,22 @@ To finish the GGB, the total pages of this 10 vol set is 5046 pages, so the plan
 
 <center><img src="https://github.com/qingkaikong/qingkaikong.github.io/raw/main/images/progress.jpg" alt="Progress" style="width: 600px;"/></center>
 
-> Week 6 (March 20-26, 2023): 
+> Week 7 (March 27 - April 2, 2023): 
+
+* "On the Nature of a Calculus" by Alfred North Whitehead (GGB Vol. 9, pp. 68 - 78)   
+* "Montaigne" by Sainte-Beuve (GGB  Vol. 5, pp. 76-89)    
+* "Self-Reliance" by Ralph Waldo Emerson (GGB Vol. 10, pp. 525 - 545)   
+* "Mowgli's Brothers" by Rudyard Kipling (GGB, Vol. 2, pp. 122 - 141)
+* "Learning the River" Mark Twain (GBB Vol. 6, pp. 72-98)  
+* "Observations on Mental Education" by Michael Faraday (GGB Vol. 7, pp. 204-232)  
+  
+---
+
+## Done
+
+### Year 2023
+
+> [Week 6 (March 20-26, 2023)](https://qingkaikong.github.io/GGB_notes/GGB_week6/): 
 
 * "On Mathematical Method" by Alfred North Whitehead (GGB Vol. 9, pp. 47 - 67)   
 * "What is a classic" by Sainte-Beuve (GGB  Vol. 5, pp. 62-75)    
@@ -28,12 +43,6 @@ To finish the GGB, the total pages of this 10 vol set is 5046 pages, so the plan
 * "Robinson Crusoe" by Daniel Defoe (GGB, Vol. 2, pp. 95 - 121)
 * "Learning the River" Mark Twain (GBB Vol. 6, pp. 48-71)  
 * "Riders to the sea" by George Bernard Shaw (GGB Vol. 4, pp. 339-352)  
-  
----
-
-## Done
-
-### Year 2023
 
 > [Week 5 (March 13-19, 2023)](https://qingkaikong.github.io/GGB_notes/GGB_week5/): 
 
