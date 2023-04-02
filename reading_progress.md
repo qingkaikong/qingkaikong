@@ -20,14 +20,14 @@ To finish the GGB, the total pages of this 10 vol set is 5046 pages, so the plan
 
 <center><img src="https://github.com/qingkaikong/qingkaikong.github.io/raw/main/images/progress.jpg" alt="Progress" style="width: 600px;"/></center>
 
-> Week 7 (March 27 - April 2, 2023): 
+> Week 8 (April 3 - 9, 2023): 
 
-* "On the Nature of a Calculus" by Alfred North Whitehead (GGB Vol. 9, pp. 68 - 78)   
-* "Montaigne" by Sainte-Beuve (GGB  Vol. 5, pp. 76-89)    
-* "Self-Reliance" by Ralph Waldo Emerson (GGB Vol. 10, pp. 525 - 545)   
-* "Mowgli's Brothers" by Rudyard Kipling (GGB, Vol. 2, pp. 122 - 141)
-* "Learning the River" Mark Twain (GBB Vol. 6, pp. 72-98)  
-* "Observations on Mental Education" by Michael Faraday (GGB Vol. 7, pp. 204-232)  
+* "The Discovery of Radium" by Eve Curie (GGB Vol. 8, pp. 29 - 42)   
+* "The Study of Poetry" by Matthew Arnold (GGB  Vol. 5, pp. 15-41)    
+* "The Making of Americans" by Jean De Crevecoeur (GGB Vol. 6, pp. 543 - 559)   
+* "The Battle with the Cannon" by Victor Hugo (GGB, Vol. 2, pp. 142 - 154)
+* "Of Refinement in the Arts" David Hume (GGB Vol. 7, pp. 50-61)  
+* "The Enchiridion" by Epictetus (GGB Vol. 10, pp. 234-254)  
   
 ---
 
@@ -35,13 +35,22 @@ To finish the GGB, the total pages of this 10 vol set is 5046 pages, so the plan
 
 ### Year 2023
 
+> Week 7 (March 27 - April 2, 2023): 
+
+* "On the Nature of a Calculus" by Alfred North Whitehead (GGB Vol. 9, pp. 68 - 78)   
+* "Montaigne" by Sainte-Beuve (GGB  Vol. 5, pp. 76-89)    
+* "Self-Reliance" by Ralph Waldo Emerson (GGB Vol. 10, pp. 525 - 545)   
+* "Mowgli's Brothers" by Rudyard Kipling (GGB, Vol. 2, pp. 122 - 141)
+* "Learning the River" Mark Twain (GGB Vol. 6, pp. 72-98)  
+* "Observations on Mental Education" by Michael Faraday (GGB Vol. 7, pp. 204-232)  
+
 > [Week 6 (March 20-26, 2023)](https://qingkaikong.github.io/GGB_notes/GGB_week6/): 
 
 * "On Mathematical Method" by Alfred North Whitehead (GGB Vol. 9, pp. 47 - 67)   
 * "What is a classic" by Sainte-Beuve (GGB  Vol. 5, pp. 62-75)    
 * "Nature" by Ralph Waldo Emerson (GGB Vol. 10, pp. 509 - 524)   
 * "Robinson Crusoe" by Daniel Defoe (GGB, Vol. 2, pp. 95 - 121)
-* "Learning the River" Mark Twain (GBB Vol. 6, pp. 48-71)  
+* "Learning the River" Mark Twain (GGB Vol. 6, pp. 48-71)  
 * "Riders to the sea" by George Bernard Shaw (GGB Vol. 4, pp. 339-352)  
 
 > [Week 5 (March 13-19, 2023)](https://qingkaikong.github.io/GGB_notes/GGB_week5/): 
@@ -50,7 +59,7 @@ To finish the GGB, the total pages of this 10 vol set is 5046 pages, so the plan
 * "Dream Children, a Reverie" and "Sanity of True Genius" by Charles Lamb (GGB  Vol. 5, pp. 304-310)    
 * "The Art of Life" by Walter Horatio Pater (GGB Vol. 10, pp. 255 - 261)   
 * "Robinson Crusoe" by Daniel Defoe (GGB, Vol. 2, pp. 66 - 94)
-* "Thoreau" Ralph Waldo Emerson (GBB Vol. 6, pp. 146-165)  
+* "Thoreau" Ralph Waldo Emerson (GGB Vol. 6, pp. 146-165)  
 * "The Man of Destiny" by George Bernard Shaw (GGB Vol. 4, pp. 300-338)  
 
 > [Week 4 (March 6-12, 2023)](https://qingkaikong.github.io/GGB_notes/GGB_week4/): 
@@ -59,7 +68,7 @@ To finish the GGB, the total pages of this 10 vol set is 5046 pages, so the plan
 * "My first play" by Charles Lamb (GGB  Vol. 5, pp. 296-303)    
 * "Of Adversity" and "Of Love" by Francis Bacon (GGB Vol. 10, pp. 350 - 352)   
 * "Robinson Crusoe" by Daniel Defoe (GGB, Vol. 2, pp. 40 - 65)
-* "The English Bills of Rights" Great Documents (GBB Vol. 6, pp. 407-411)  
+* "The English Bills of Rights" Great Documents (GGB Vol. 6, pp. 407-411)  
 * "The Lantern-Bearers" by Robert Louis Stevenson (GGB Vol. 7, pp. 110-121)  
 
 > [Week 3 (Feb 27 - March 5, 2023)](https://qingkaikong.github.io/GGB_notes/GGB_week3/):  
@@ -68,7 +77,7 @@ To finish the GGB, the total pages of this 10 vol set is 5046 pages, so the plan
 * "Mathematics, in Life and Thought" by Andrew Russell Forsyth (GGB  Vol. 9, pp. 24-46)    
 * "Of Beauty", "Of Discourse", "Of studies" by Francis Bacon (GGB Vol. 5, pp. 90 - 98)   
 * "Robinson Crusoe" by Daniel Defoe (GGB, Vol. 2, pp. 1 - 39)
-* "Childhood and Youth" by John Stuart Mill from Autobiography (GBB Vol. 6, pp. 24-47)  
+* "Childhood and Youth" by John Stuart Mill from Autobiography (GGB Vol. 6, pp. 24-47)  
 * "Of Parents and Children" and "Of Marriage and Single life" by Francis Bacon (GGB Vol. 7, pp. 5-8)  
 
 > [Week 2 (Feb 20-26, 2023)](https://qingkaikong.github.io/GGB_notes/GGB_week2/): 
@@ -77,7 +86,7 @@ To finish the GGB, the total pages of this 10 vol set is 5046 pages, so the plan
 * "How Should One Read a Book?" by Virginia Woolf (GGB Vol. 5, pp. 1-14)    
 * "Mathematics, the Mirror of Civilization" by Lancelot Hogben (GGB Vol. 9, pp. 1-23)   
 * "Of Youth and Age" by Francis Bacon (GGB Vol. 7, pp. 1-4)    
-* "Childhood and Youth" by John Stuart Mill from Autobiography (GBB Vol. 6, pp. 1-23)    
+* "Childhood and Youth" by John Stuart Mill from Autobiography (GGB Vol. 6, pp. 1-23)    
 * "The Open Boat" by Stephen Crane (GGB Vol. 3, pp. 1-26)   
 
 > [Week 1 (Feb 13-19, 2023)](https://qingkaikong.github.io/GGB_notes/GGB_week1/):

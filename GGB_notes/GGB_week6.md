@@ -14,7 +14,7 @@ excerpt: "Notes"
 * "What is a classic" by Sainte-Beuve (GGB  Vol. 5, pp. 62-75)    
 * "Nature" by Ralph Waldo Emerson (GGB Vol. 10, pp. 509 - 524)   
 * "Robinson Crusoe" by Daniel Defoe (GGB, Vol. 2, pp. 95 - 121)
-* "Learning the River" Mark Twain (GBB Vol. 6, pp. 48-71)  
+* "Learning the River" Mark Twain (GGB Vol. 6, pp. 48-71)  
 * "Riders to the sea" by George Bernard Shaw (GGB Vol. 4, pp. 339-352)  
 
 

@@ -13,7 +13,7 @@ excerpt: "Notes"
 * "My first play" by Charles Lamb (GGB  Vol. 5, pp. 296-303)    
 * "Of Adversity" and "Of Love" by Francis Bacon (GGB Vol. 10, pp. 350 - 352)   
 * "Robinson Crusoe" by Daniel Defoe (GGB, Vol. 2, pp. 40 - 65)
-* "The English Bills of Rights" Great Documents (GBB Vol. 6, pp. 407-411)  
+* "The English Bills of Rights" Great Documents (GGB Vol. 6, pp. 407-411)  
 * "The Lantern-Bearers" by Robert Louis Stevenson (GGB Vol. 7, pp. 110-121)    
 
 

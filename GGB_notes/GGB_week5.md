@@ -14,7 +14,7 @@ excerpt: "Notes"
 * "Dream Children, a Reverie" and "Sanity of True Genius" by Charles Lamb (GGB  Vol. 5, pp. 304-310)    
 * "The Art of Life" by Walter Horatio Pater (GGB Vol. 10, pp. 255 - 261)   
 * "Robinson Crusoe" by Daniel Defoe (GGB, Vol. 2, pp. 66 - 94)
-* "Thoreau" Ralph Waldo Emerson (GBB Vol. 6, pp. 146-165)  
+* "Thoreau" Ralph Waldo Emerson (GGB Vol. 6, pp. 146-165)  
 * "The Man of Destiny" by George Bernard Shaw (GGB Vol. 4, pp. 300-338)   
 
 

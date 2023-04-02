@@ -13,7 +13,7 @@ excerpt: "Notes"
 * "Mathematics, in Life and Thought" by Andrew Russell Forsyth (GGB  Vol. 9, pp. 24-46)    
 * "Of Beauty", "Of Discourse", "Of studies" by Francis Bacon (GGB Vol. 5, pp. 90 - 98)   
 * "Robinson Crusoe" by Daniel Defoe (GGB, Vol. 2, pp. 1 - 39)
-* "Childhood and Youth" by John Stuart Mill from Autobiography (GBB Vol. 6, pp. 24-47)  
+* "Childhood and Youth" by John Stuart Mill from Autobiography (GGB Vol. 6, pp. 24-47)  
 * "Of Parents and Children" and "Of Marriage and Single life" by Francis Bacon (GGB Vol. 7, pp. 5-8)    
 
 This week, I continue to read different types. But I decide to have more short essays from Francis Bacon. 
