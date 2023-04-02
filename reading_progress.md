@@ -27,7 +27,7 @@ To finish the GGB, the total pages of this 10 vol set is 5046 pages, so the plan
 * "The Making of Americans" by Jean De Crevecoeur (GGB Vol. 6, pp. 543 - 559)   
 * "The Battle with the Cannon" by Victor Hugo (GGB, Vol. 2, pp. 142 - 154)
 * "Of Refinement in the Arts" David Hume (GGB Vol. 7, pp. 50-61)  
-* "The Enchiridion" by Epictetus (GGB Vol. 10, pp. 234-254)  
+* "The Enchiridion" by Epictetus (GGB Vol. 10, pp. 234-254)   
   
 ---
 
@@ -35,7 +35,8 @@ To finish the GGB, the total pages of this 10 vol set is 5046 pages, so the plan
 
 ### Year 2023
 
-> Week 7 (March 27 - April 2, 2023): 
+
+> [Week 7 (March 27 - April 2, 2023)](https://qingkaikong.github.io/GGB_notes/GGB_week7/): 
 
 * "On the Nature of a Calculus" by Alfred North Whitehead (GGB Vol. 9, pp. 68 - 78)   
 * "Montaigne" by Sainte-Beuve (GGB  Vol. 5, pp. 76-89)    
