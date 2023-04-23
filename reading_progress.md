@@ -20,6 +20,17 @@ To finish the GGB, the total pages of this 10 vol set is 5046 pages, so the plan
 
 <center><img src="https://github.com/qingkaikong/qingkaikong.github.io/raw/main/images/progress.jpg" alt="Progress" style="width: 600px;"/></center>
 
+> Week 10 (April 17 - 23, 2023): 
+
+* "The School for Scandal" by Richard Sheridan (GGB Vol. 4, pp. 82 - 159)   
+* "The Two Drovers" by Sir Walter Scott (GGB  Vol. 2, pp. 178-205)    
+  
+---
+
+## Done
+
+### Year 2023
+
 > Week 9 (April 10 - 16, 2023): 
 
 * "On Being the Right Size" by J. B. S. Haldane (GGB Vol. 8, pp. 147 - 154)   
@@ -27,13 +38,7 @@ To finish the GGB, the total pages of this 10 vol set is 5046 pages, so the plan
 * "Sketch of Abraham Lincoln" by Nathaniel Hawthorne and "Death of Abraham Lincoln" Walt Whitman (GGB Vol. 6, pp. 166 - 183)   
 * "Two Friends" by Guy De Maupassant and "The Killers" by Ernest Hemingway (GGB, Vol. 2, pp. 155 - 177)
 * "What is War" Karl Von Clausewitz (GGB Vol. 7, pp. 476-497)  
-* "On the Feeling of Immortality in Youth" by William Hazlitt (GGB Vol. 10, pp. 563-570)  
-  
----
-
-## Done
-
-### Year 2023
+* "On the Feeling of Immortality in Youth" by William Hazlitt (GGB Vol. 10, pp. 563-570) 
 
 > [Week 8 (April 3 - 9, 2023)](https://qingkaikong.github.io/GGB_notes/GGB_week8/): 
 
