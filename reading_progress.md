@@ -20,16 +20,25 @@ To finish the GGB, the total pages of this 10 vol set is 5046 pages, so the plan
 
 <center><img src="https://github.com/qingkaikong/qingkaikong.github.io/raw/main/images/progress.jpg" alt="Progress" style="width: 600px;"/></center>
 
-> Week 10 (April 17 - 23, 2023): 
+> Week 11 (April 24 - 30, 2023): 
 
-* "The School for Scandal" by Richard Sheridan (GGB Vol. 4, pp. 82 - 159)   
-* "The Two Drovers" by Sir Walter Scott (GGB  Vol. 2, pp. 178-205)    
+* "Of the Standard of Taste" by David Hume (GGB Vol. 5, pp. 99 - 119)   
+* "The March to the Sea" by Xenophon (GGB  Vol. 6, pp. 193-222)   
+* "Of Money" by David Hume (GGB  Vol. 7, pp. 62-71)   
+* "The Starry Messenger" by Galileo Galilei (GGB  Vol. 8, pp. 325-356)   
+* "Of Friendship" and "Of Anger" by Sir Francis Bacon (GGB  Vol. 10, pp. 353-360)   
+* "The Happy Prince" by Oscar Wilde (GGB  Vol. 2, pp. 257-268) 
   
 ---
 
 ## Done
 
 ### Year 2023
+
+> Week 10 (April 17 - 23, 2023, travelling): 
+
+* "The School for Scandal" by Richard Sheridan (GGB Vol. 4, pp. 82 - 159)   
+* "The Two Drovers" by Sir Walter Scott (GGB  Vol. 2, pp. 178-205)   
 
 > Week 9 (April 10 - 16, 2023): 
 
