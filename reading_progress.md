@@ -22,12 +22,9 @@ To finish the GGB, the total pages of this 10 vol set is 5046 pages, so the plan
 
 Week 12 (May 1 - 7, 2023):
 
-* "Of the Standard of Taste" by David Hume (GGB Vol. 5, pp. 99 - 119)   
-* "The March to the Sea" by Xenophon (GGB  Vol. 6, pp. 193-222)   
-* "Of Money" by David Hume (GGB  Vol. 7, pp. 62-71)   
-* "The Starry Messenger" by Galileo Galilei (GGB  Vol. 8, pp. 325-356)   
-* "Of Friendship" and "Of Anger" by Sir Francis Bacon (GGB  Vol. 10, pp. 353-360)   
-* "The Happy Prince" by Oscar Wilde (GGB  Vol. 2, pp. 257-268) 
+* "Of the Study of History" by David Hume (GGB  Vol. 7, pp. 89-92)   
+* "Autobiography" by Charles Robert Darwin (GGB  Vol. 8, pp. 43-93)     
+* "The Strange Case of Dr. Jekyll and Mr. Hyde" by Robert Louis Stevenson (GGB  Vol. 2, pp. 284-341) 
   
 ---
 
@@ -37,9 +34,12 @@ Week 12 (May 1 - 7, 2023):
 
 > [Week 11 (April 24 - 30, 2023)](https://qingkaikong.github.io/GGB_notes/GGB_week11/):
   
-* "Of the Study of History" by David Hume (GGB  Vol. 7, pp. 89-92)   
-* "Autobiography" by Charles Robert Darwin (GGB  Vol. 8, pp. 43-93)     
-* "The Strange Case of Dr. Jekyll and Mr. Hyde" by Robert Louis Stevenson (GGB  Vol. 2, pp. 284-341) 
+* "Of the Standard of Taste" by David Hume (GGB Vol. 5, pp. 99 - 119)   
+* "The March to the Sea" by Xenophon (GGB  Vol. 6, pp. 193-222)   
+* "Of Money" by David Hume (GGB  Vol. 7, pp. 62-71)   
+* "The Starry Messenger" by Galileo Galilei (GGB  Vol. 8, pp. 325-356)   
+* "Of Friendship" and "Of Anger" by Sir Francis Bacon (GGB  Vol. 10, pp. 353-360)   
+* "The Happy Prince" by Oscar Wilde (GGB  Vol. 2, pp. 257-268) 
 
 > [Week 10 (April 17 - 23, 2023)](https://qingkaikong.github.io/GGB_notes/GGB_week10/): 
 
