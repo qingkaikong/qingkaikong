@@ -20,7 +20,7 @@ To finish the GGB, the total pages of this 10 vol set is 5046 pages, so the plan
 
 <center><img src="https://github.com/qingkaikong/qingkaikong.github.io/raw/main/images/progress.jpg" alt="Progress" style="width: 600px;"/></center>
 
-> Week 11 (April 24 - 30, 2023): 
+Week 12 (May 1 - 7, 2023):
 
 * "Of the Standard of Taste" by David Hume (GGB Vol. 5, pp. 99 - 119)   
 * "The March to the Sea" by Xenophon (GGB  Vol. 6, pp. 193-222)   
@@ -34,6 +34,12 @@ To finish the GGB, the total pages of this 10 vol set is 5046 pages, so the plan
 ## Done
 
 ### Year 2023
+
+> [Week 11 (April 24 - 30, 2023)](https://qingkaikong.github.io/GGB_notes/GGB_week11/):
+  
+* "Of the Study of History" by David Hume (GGB  Vol. 7, pp. 89-92)   
+* "Autobiography" by Charles Robert Darwin (GGB  Vol. 8, pp. 43-93)     
+* "The Strange Case of Dr. Jekyll and Mr. Hyde" by Robert Louis Stevenson (GGB  Vol. 2, pp. 284-341) 
 
 > [Week 10 (April 17 - 23, 2023)](https://qingkaikong.github.io/GGB_notes/GGB_week10/): 
 
