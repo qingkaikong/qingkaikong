@@ -46,6 +46,10 @@ The discussion in this essay is not what I thought. I was thinking more on the n
 **The Starry Messenger**
 
 We all know Galileo is the first one pointed the telescope (spy scope at that moment) and observed the moon and also found the 4 satellites around Jupiter. But reading what he first recorded down really gives me a feeling that I am with him at the first time in human history to observe the mighty heaven! I am also impressed by how detail he made for the surface of the moon, and spent months to observe it. I also remember my observation with the moon using telescope, usually, not too long, I will move to other objects. One thing is that, I lose all the excitement due to all the images online, that I saw better ones. The other thing is that, I don't have the patience or the time to really observe hours for a few months. I am so impatient today, that in one night, I usually try to observe as many objects as I can. 
+
+Another thing I feel interesting is that when he decribed Orion, I am so supprised that he didn't say anything about the Orion Nebula when he plotted the belt of the Orion, which is so obvious, even for the unaided eyes. I am wondering if this is due to the Orion Nebula is different at that time? Or the field of view of his telescope was so small, that he missed it? I checked online, the later reason maybe more accepted these days. Orion nebula was discovered in 1610 (by others), and the Starry Messenger was also written in 1610. Is there a chance that Orion nebula start from that year?
+
+The description of the Jupiter's moons is also interesting, and he keep observe for a few months, and I remembered my experience with observing the moons moving and the coming out or entering into behind the Jupiter and the shadow of the moon on Jupiter are so cool. 
  
 
 ---

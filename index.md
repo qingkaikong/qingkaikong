@@ -18,6 +18,8 @@ My research lies at the intersection of seismology, civil engineering and data s
 No news is good news. 
 
 <!---
+2023/04/19 Qingkai gives a talk at SSA
+2023/03/16 Qingkai gives guest lecture at Brown University
 2022/12/16 Qingkai gives a remote presentation at AGU
 2022/10/18 Qingkai serves as the Career Mentor for SSA Mentoring session. 
 2022/10/13 Qingkai gives a remote presentation at Sandia National Lab.
