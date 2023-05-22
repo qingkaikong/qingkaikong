@@ -20,17 +20,24 @@ To finish the GGB, the total pages of this 10 vol set is 5046 pages, so the plan
 
 <center><img src="https://github.com/qingkaikong/qingkaikong.github.io/raw/main/images/progress.jpg" alt="Progress" style="width: 600px;"/></center>
 
-Week 13 (May 8 - 14, 2023):
+Week 14 (May 15 - 21, 2023):
 
-* "New Names for Old" by Edward Kasner (GGB  Vol. 9, pp. 118-136)   
-* "The Hero as King" by Thomas Carlyle (GGB  Vol. 6, pp. 106-145)     
-* "The Man That Corrupted Hadleburg" by Mark Twain (GGB  Vol. 2, pp. 342-386) 
+* "Characters" by La Bruyere (GGB  Vol. 6, pp. 99-105)   
+* "The Art of Biography" by Virginia Woolf (GGB  Vol. 6, pp. 184-192)     
+* "The Character of Socrates" by Xenophon (GGB  Vol. 6, pp. 223-226) 
+* "Civil Disobedience" by Henry David Thoreau (GGB  Vol. 6, pp. 691-713) 
   
 ---
 
 ## Done
 
 ### Year 2023
+
+> [Week 13 (May 8 - 14, 2023)](https://qingkaikong.github.io/GGB_notes/GGB_week13/):
+
+* "New Names for Old" by Edward Kasner (GGB  Vol. 9, pp. 118-136)   
+* "The Hero as King" by Thomas Carlyle (GGB  Vol. 6, pp. 106-145)     
+* "The Man That Corrupted Hadleburg" by Mark Twain (GGB  Vol. 2, pp. 342-386) 
 
 > [Week 12 (May 1 - 7, 2023)](https://qingkaikong.github.io/GGB_notes/GGB_week12/):
 
