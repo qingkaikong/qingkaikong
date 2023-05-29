@@ -20,7 +20,7 @@ To finish the GGB, the total pages of this 10 vol set is 5046 pages, so the plan
 
 <center><img src="https://github.com/qingkaikong/qingkaikong.github.io/raw/main/images/progress.jpg" alt="Progress" style="width: 600px;"/></center>
 
-Week 16 (May 22 - 28, 2023):
+Week 16 (May 29 - June 4, 2023):
 
 * "Billy Budd" by Herman Melville (GGB  Vol. 3, pp. 27-98)   
 * "The gentleman from San Francisco" by Ivan Bunin (GGB  Vol. 3, pp. 99-123)     
