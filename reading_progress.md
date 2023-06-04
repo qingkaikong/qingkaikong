@@ -20,10 +20,13 @@ To finish the GGB, the total pages of this 10 vol set is 5046 pages, so the plan
 
 <center><img src="https://github.com/qingkaikong/qingkaikong.github.io/raw/main/images/progress.jpg" alt="Progress" style="width: 600px;"/></center>
 
-Week 16 (May 29 - June 4, 2023):
+Week 17 (June 5 - June 11, 2023):
 
-* "Billy Budd" by Herman Melville (GGB  Vol. 3, pp. 27-98)   
-* "The gentleman from San Francisco" by Ivan Bunin (GGB  Vol. 3, pp. 99-123)     
+* "The Study of Mathematics" by Bertrand Russell (GGB  Vol. 9, pp. 79-94)   
+* "Mathematics and the Metaphysicians" by Bertrand Russell (GGB  Vol. 9, pp. 94-110)    
+* "Definition of Number" by Bertrand Russell (GGB  Vol. 9, pp. 111-117)   
+* "Beyond the Googol" by Edward Kasner & James Newman (GGB  Vol. 9, pp. 137-162) 
+* "The Spinoza of Market Street" by Isaac Singer (GGB Vol. 3, pp. 463-480)
 
 ---
 
@@ -31,7 +34,12 @@ Week 16 (May 29 - June 4, 2023):
 
 ### Year 2023
 
-[Week 15 (May 22 - 28, 2023)](https://qingkaikong.github.io/GGB_notes/GGB_week15/):
+> [Week 16 (May 29 - June 4, 2023)](https://qingkaikong.github.io/GGB_notes/GGB_week16/):
+
+* "Billy Budd" by Herman Melville (GGB  Vol. 3, pp. 27-98)   
+* "The gentleman from San Francisco" by Ivan Bunin (GGB  Vol. 3, pp. 99-123)  
+
+> [Week 15 (May 22 - 28, 2023)](https://qingkaikong.github.io/GGB_notes/GGB_week15/):
 
 * "The death of Ivan Ilyitch" by Leo Tolstoy (GGB  Vol. 3, pp. 642-699)   
 * "The three hermits" by Leo Tolstoy (GGB  Vol. 3, pp. 700-706)     

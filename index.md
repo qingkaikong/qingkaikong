@@ -18,6 +18,7 @@ My research lies at the intersection of seismology, civil engineering and data s
 No news is good news. 
 
 <!---
+2023/05/30 Qingkai serves as panelist at graduate seminar panel discussion at Victoria University of Wellington
 2023/04/19 Qingkai gives a talk at SSA
 2023/03/16 Qingkai gives guest lecture at Brown University
 2022/12/16 Qingkai gives a remote presentation at AGU
