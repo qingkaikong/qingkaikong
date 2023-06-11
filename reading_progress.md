@@ -20,7 +20,21 @@ To finish the GGB, the total pages of this 10 vol set is 5046 pages, so the plan
 
 <center><img src="https://github.com/qingkaikong/qingkaikong.github.io/raw/main/images/progress.jpg" alt="Progress" style="width: 600px;"/></center>
 
-Week 17 (June 5 - June 11, 2023):
+Week 18 (June 12 - 18, 2023):
+
+* "The Sphinx" by Francis Bacon (GGB  Vol. 8, pp. 1-4)   
+* "Geological Evolution" by Sir Charles Lyell (GGB  Vol. 8, pp. 315-324)    
+* "The Rise and Decline of Classical Physics" by Albert Einstein & Leopold Infeld (GGB  Vol. 8, pp. 485-560)   
+* "On Education" by Arthur Schopenhauer (GGB  Vol. 7, pp. 195-203) 
+* "Of Great Place" by Francis Bacon (GGB  Vol. 7, pp. 9-11) 
+
+---
+
+## Done
+
+### Year 2023
+
+> [Week 17 (June 5 - June 11, 2023)](https://qingkaikong.github.io/GGB_notes/GGB_week17/):
 
 * "The Study of Mathematics" by Bertrand Russell (GGB  Vol. 9, pp. 79-94)   
 * "Mathematics and the Metaphysicians" by Bertrand Russell (GGB  Vol. 9, pp. 94-110)    
@@ -28,11 +42,6 @@ Week 17 (June 5 - June 11, 2023):
 * "Beyond the Googol" by Edward Kasner & James Newman (GGB  Vol. 9, pp. 137-162) 
 * "The Spinoza of Market Street" by Isaac Singer (GGB Vol. 3, pp. 463-480)
 
----
-
-## Done
-
-### Year 2023
 
 > [Week 16 (May 29 - June 4, 2023)](https://qingkaikong.github.io/GGB_notes/GGB_week16/):
 
