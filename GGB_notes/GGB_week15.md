@@ -32,7 +32,7 @@ The best one in my opinion from the 3 pieces I am reading this week. This is my 
 
 **The three hermits**
 
-A short story about we should believe in God. Even these hermites in the isolated island, they still need the belif. They even need to chase the ship just because they forgot how to pray. 
+A short story about we should believe in God. This is just teach people to believe in God. The hermites are living a happy, self-reliance life on the isolated island. But the Bishop came and show them the love of God. Even these hermites in the isolated island, they still need the belief from God. Thus wew see they even need to chase the ship just because they forgot how to pray. Maybe it is a good one at the moment, but I don't feel anything from this story. The only feeling is that, I like to be one of the hermites on the island, live my happy life there away from this evil world. It is with the "What men live by", all teach people to believe in God. 
 
 
 ---

@@ -20,19 +20,28 @@ To finish the GGB, the total pages of this 10 vol set is 5046 pages, so the plan
 
 <center><img src="https://github.com/qingkaikong/qingkaikong.github.io/raw/main/images/progress.jpg" alt="Progress" style="width: 600px;"/></center>
 
-Week 18 (June 12 - 18, 2023):
+Week 19 (June 19 - 25, 2023):
 
-* "The Sphinx" by Francis Bacon (GGB  Vol. 8, pp. 1-4)   
-* "Geological Evolution" by Sir Charles Lyell (GGB  Vol. 8, pp. 315-324)    
-* "The Rise and Decline of Classical Physics" by Albert Einstein & Leopold Infeld (GGB  Vol. 8, pp. 485-560)   
-* "On Education" by Arthur Schopenhauer (GGB  Vol. 7, pp. 195-203) 
-* "Of Great Place" by Francis Bacon (GGB  Vol. 7, pp. 9-11) 
+* "The Misanthrope" by Moliere (GGB  Vol. 4, pp. 1-51)   
+* "Sweetness and Light" by Matthew Arnold (GGB  Vol. 5, pp. 42-61)    
+* "On Style" by Arthur Schopenhauer (GGB  Vol. 5, pp. 120-137)   
+* "On Some Forms of Literature" by Arthur Schopenhauer (GGB  Vol. 5, pp. 137-142)  
+* "On the Comparative Place of Interest and Beauty in Works of Art" by Arthur Schopenhauer (GGB  Vol. 5, pp. 143-150) 
+
 
 ---
 
 ## Done
 
 ### Year 2023
+
+> [Week 18 (June 12 - 18, 2023](https://qingkaikong.github.io/GGB_notes/GGB_week17/):
+
+* "The Sphinx" by Francis Bacon (GGB  Vol. 8, pp. 1-4)   
+* "Geological Evolution" by Sir Charles Lyell (GGB  Vol. 8, pp. 315-324)    
+* "The Rise and Decline of Classical Physics" by Albert Einstein & Leopold Infeld (GGB  Vol. 8, pp. 485-560)   
+* "On Education" by Arthur Schopenhauer (GGB  Vol. 7, pp. 195-203) 
+* "Of Great Place" by Francis Bacon (GGB  Vol. 7, pp. 9-11) 
 
 > [Week 17 (June 5 - June 11, 2023)](https://qingkaikong.github.io/GGB_notes/GGB_week17/):
 
