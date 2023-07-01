@@ -20,13 +20,10 @@ To finish the GGB, the total pages of this 10 vol set is 5046 pages, so the plan
 
 <center><img src="https://github.com/qingkaikong/qingkaikong.github.io/raw/main/images/progress.jpg" alt="Progress" style="width: 600px;"/></center>
 
-Week 19 (June 19 - 25, 2023):
+Week 20 (June 26 - July 2, 2023):
 
-* "The Misanthrope" by Moliere (GGB  Vol. 4, pp. 1-51)   
-* "Sweetness and Light" by Matthew Arnold (GGB  Vol. 5, pp. 42-61)    
-* "On Style" by Arthur Schopenhauer (GGB  Vol. 5, pp. 120-137)   
-* "On Some Forms of Literature" by Arthur Schopenhauer (GGB  Vol. 5, pp. 137-142)  
-* "On the Comparative Place of Interest and Beauty in Works of Art" by Arthur Schopenhauer (GGB  Vol. 5, pp. 143-150) 
+* "The Process of Thought" by John Dewey (GGB  Vol. 10, pp. 88-152)   
+* "The Lifted Veil" by George Eliot (GGB  Vol. 3, pp. 153-193)    
 
 
 ---
@@ -35,7 +32,15 @@ Week 19 (June 19 - 25, 2023):
 
 ### Year 2023
 
-> [Week 18 (June 12 - 18, 2023](https://qingkaikong.github.io/GGB_notes/GGB_week17/):
+> [Week 19 (June 19 - 25, 2023)](https://qingkaikong.github.io/GGB_notes/GGB_week19/):
+
+* "The Misanthrope" by Moliere (GGB  Vol. 4, pp. 1-51)   
+* "Sweetness and Light" by Matthew Arnold (GGB  Vol. 5, pp. 42-61)    
+* "On Style" by Arthur Schopenhauer (GGB  Vol. 5, pp. 120-137)   
+* "On Some Forms of Literature" by Arthur Schopenhauer (GGB  Vol. 5, pp. 137-142)  
+* "On the Comparative Place of Interest and Beauty in Works of Art" by Arthur Schopenhauer (GGB  Vol. 5, pp. 143-150) 
+
+> [Week 18 (June 12 - 18, 2023](https://qingkaikong.github.io/GGB_notes/GGB_week18/):
 
 * "The Sphinx" by Francis Bacon (GGB  Vol. 8, pp. 1-4)   
 * "Geological Evolution" by Sir Charles Lyell (GGB  Vol. 8, pp. 315-324)    
