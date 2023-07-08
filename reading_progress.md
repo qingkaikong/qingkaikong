@@ -20,10 +20,14 @@ To finish the GGB, the total pages of this 10 vol set is 5046 pages, so the plan
 
 <center><img src="https://github.com/qingkaikong/qingkaikong.github.io/raw/main/images/progress.jpg" alt="Progress" style="width: 600px;"/></center>
 
-Week 20 (June 26 - July 2, 2023):
+Week 21 (July 3 - July 9, 2023):
 
-* "The Process of Thought" by John Dewey (GGB  Vol. 10, pp. 88-152)   
-* "The Lifted Veil" by George Eliot (GGB  Vol. 3, pp. 153-193)    
+* "The Process of Thought" by John Dewey (GGB  Vol. 10, pp. 153-213)   
+* "Declaration of the Rights of Man and of the Citizen" (GGB  Vol. 6, pp. 412 - 414) 
+* "The Virginia Declaration of Rights" (GGB  Vol. 6, pp. 415 - 417)  
+* "The Declaration of Independence" (GGB  Vol. 6, pp. 418 - 421)  
+* "Charter of the United Nations" (GGB  Vol. 6, pp. 422 - 451)  
+* "Universal Declaration of Human Rights" (GGB  Vol. 6, pp. 452 - 456)  
 
 
 ---
@@ -31,6 +35,12 @@ Week 20 (June 26 - July 2, 2023):
 ## Done
 
 ### Year 2023
+
+> [Week 20 (June 26 - July 2, 2023)](https://qingkaikong.github.io/GGB_notes/GGB_week20/):
+
+* "The Process of Thought" by John Dewey (GGB  Vol. 10, pp. 88-152)   
+* "The Lifted Veil" by George Eliot (GGB  Vol. 3, pp. 153-193)    
+
 
 > [Week 19 (June 19 - 25, 2023)](https://qingkaikong.github.io/GGB_notes/GGB_week19/):
 
