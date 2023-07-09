@@ -20,14 +20,15 @@ To finish the GGB, the total pages of this 10 vol set is 5046 pages, so the plan
 
 <center><img src="https://github.com/qingkaikong/qingkaikong.github.io/raw/main/images/progress.jpg" alt="Progress" style="width: 600px;"/></center>
 
-Week 21 (July 3 - July 9, 2023):
+Week 22 (July 10 - July 16, 2023):
 
-* "The Process of Thought" by John Dewey (GGB  Vol. 10, pp. 153-213)   
-* "Declaration of the Rights of Man and of the Citizen" (GGB  Vol. 6, pp. 412 - 414) 
-* "The Virginia Declaration of Rights" (GGB  Vol. 6, pp. 415 - 417)  
-* "The Declaration of Independence" (GGB  Vol. 6, pp. 418 - 421)  
-* "Charter of the United Nations" (GGB  Vol. 6, pp. 422 - 451)  
-* "Universal Declaration of Human Rights" (GGB  Vol. 6, pp. 452 - 456)  
+* "Of Seditions and Troubles" by Sir Francis Bacon (GGB  Vol. 7, pp. 12-17) 
+* "On a Certain Blindness in Human Beings" by William James (GGB  Vol. 7, pp. 137-156)   
+* "The Energies of Men" by William James (GGB  Vol. 7, pp. 157-170)  
+* "Great Men and Their Environment" by William James (GGB  Vol. 7, pp. 171-194)     
+* "Fingerprints" by Tobias Dantzig (GGB  Vol. 9, pp. 163-177)  
+* "The Empty Column" by Tobias Dantzig (GGB  Vol. 9, pp. 178-189) 
+* "The Seven Bridges of Königsberg" by Leonhard Euler (GGB  Vol. 9, pp. 190-201) 
 
 
 ---
@@ -35,6 +36,15 @@ Week 21 (July 3 - July 9, 2023):
 ## Done
 
 ### Year 2023
+
+> [Week 21 (July 3 - July 9, 2023)](https://qingkaikong.github.io/GGB_notes/GGB_week21/):
+
+* "The Process of Thought" by John Dewey (GGB  Vol. 10, pp. 153-213)   
+* "Declaration of the Rights of Man and of the Citizen" (GGB  Vol. 6, pp. 412 - 414) 
+* "The Virginia Declaration of Rights" (GGB  Vol. 6, pp. 415 - 417)  
+* "The Declaration of Independence" (GGB  Vol. 6, pp. 418 - 421)  
+* "Charter of the United Nations" (GGB  Vol. 6, pp. 422 - 451)  
+* "Universal Declaration of Human Rights" (GGB  Vol. 6, pp. 452 - 456)  
 
 > [Week 20 (June 26 - July 2, 2023)](https://qingkaikong.github.io/GGB_notes/GGB_week20/):
 
