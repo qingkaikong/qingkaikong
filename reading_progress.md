@@ -20,7 +20,20 @@ To finish the GGB, the total pages of this 10 vol set is 5046 pages, so the plan
 
 <center><img src="https://github.com/qingkaikong/qingkaikong.github.io/raw/main/images/progress.jpg" alt="Progress" style="width: 600px;"/></center>
 
-Week 22 (July 10 - July 16, 2023):
+Week 23 (July 17 - July 23, 2023):
+
+* "The pupil" by Henry James (GGB  Vol. 3, pp. 526-568)  
+* "Machiavelli" by Thomas Babington Macaulay (GGB  Vol. 7, pp. 291-329) 
+* "My First Acquaintance with Poets" by William Hazlitt (GGB  Vol. 5, pp. 260-279) 
+
+
+---
+
+## Done
+
+### Year 2023
+
+> [Week 22 (July 10 - July 16, 2023)](https://qingkaikong.github.io/GGB_notes/GGB_week22/):
 
 * "Of Seditions and Troubles" by Sir Francis Bacon (GGB  Vol. 7, pp. 12-17) 
 * "On a Certain Blindness in Human Beings" by William James (GGB  Vol. 7, pp. 137-156)   
@@ -30,12 +43,6 @@ Week 22 (July 10 - July 16, 2023):
 * "The Empty Column" by Tobias Dantzig (GGB  Vol. 9, pp. 178-189) 
 * "The Seven Bridges of Königsberg" by Leonhard Euler (GGB  Vol. 9, pp. 190-201) 
 
-
----
-
-## Done
-
-### Year 2023
 
 > [Week 21 (July 3 - July 9, 2023)](https://qingkaikong.github.io/GGB_notes/GGB_week21/):
 
