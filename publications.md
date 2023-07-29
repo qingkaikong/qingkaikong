@@ -16,8 +16,9 @@ excerpt: "My publications"
 
 ## Submitted
 
-[*Journal*] **Qingkai Kong**, Richard M. Allen, Steven Allen, Theron Bair, Akie Mejia, Sarina Petel, Jennifer Strauss, Stephen Thompson . "Crowdsourcing Felt Reports Using the MyShake Smartphone App" [arXiv](https://arxiv.org/abs/2204.12675)
+[*Journal*] Yawen Zhang, **Qingkai Kong**, Tao Ruan, Qin Lv, Richard M. Allen. "A Comprehensive Analysis of Real-World Accelerometer Data Quality in a Global Smartphone-based Seismic Network" 
 
+[*Journal*] Ross Maguire, Brandon Schmandt, Ruijia Wang, **Qingkai Kong**, Pedro Sanchez. "Transportability of Deep Learning Models for Classification of Local Distance Earthquakes and Explosions" 
 
 ---
 
@@ -28,6 +29,8 @@ excerpt: "My publications"
 ## Papers Published
 
 ### 2023 
+
+[*Journal*] **Qingkai Kong**, Richard M. Allen, Steven Allen, Theron Bair, Akie Mejia, Sarina Petel, Jennifer Strauss, Stephen Thompson. "Crowdsourcing Felt Reports Using the MyShake Smartphone App" Seismological Research Letters, [Link](https://doi.org/10.1785/0220230027), [*PDF*]()
 
 [*Journal*] M. Giselle Fernández-Godino, Donald D. Lucas, **Qingkai Kong** "Predicting wind-driven spatial deposition through simulated color images using deep autoencoders" Scientific Reports, doi: 10.1038/s41598-023-28590-4 [Link](https://www.nature.com/articles/s41598-023-28590-4), [*PDF*](https://www.nature.com/articles/s41598-023-28590-4.pdf)    
 

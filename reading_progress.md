@@ -20,18 +20,32 @@ To finish the GGB, the total pages of this 10 vol set is 5046 pages, so the plan
 
 <center><img src="https://github.com/qingkaikong/qingkaikong.github.io/raw/main/images/progress.jpg" alt="Progress" style="width: 600px;"/></center>
 
-Week 23 (July 17 - July 23, 2023):
+Week 25 (July 31 - August 6, 2023):
 
-* "The pupil" by Henry James (GGB  Vol. 3, pp. 526-568)  
-* "Machiavelli" by Thomas Babington Macaulay (GGB  Vol. 7, pp. 291-329) 
-* "My First Acquaintance with Poets" by William Hazlitt (GGB  Vol. 5, pp. 260-279) 
-
+* "Youth" by Joseph Conrad (GGB  Vol. 2, pp. 206-236)  
+* "Letter to Herodotus" by Epicurus (GGB  Vol. 10, pp. 214-229) 
+* "Letter to Menoeceus" by Epicurus Mill (GGB  Vol. 10, pp. 230-233) 
+* "Of Followers and Friends" by Francis Bacon (GGB  Vol. 7, pp. 20-21)
 
 ---
 
 ## Done
 
 ### Year 2023
+
+> [Week 24 (July 24 - July 30, 2023)](https://qingkaikong.github.io/GGB_notes/GGB_week24/):
+
+* "Of Custom and Education" by Francis Bacon (GGB  Vol. 7, pp. 18-19)  
+* "Resolutions when I Came to Be Old" by Jonathan Swift (GGB  Vol. 7, pp. 28-32) 
+* "Nature" by John Stuart Mill (GGB  Vol. 10, pp. 475-508) 
+* "A laboratory of the open fields" by Jean Henri Fabre (GGB  Vol. 8, pp. 94-104)
+
+> [Week 23 (July 17 - July 23, 2023)](https://qingkaikong.github.io/GGB_notes/GGB_week23/):
+
+* "The pupil" by Henry James (GGB  Vol. 3, pp. 526-568)  
+* "Machiavelli" by Thomas Babington Macaulay (GGB  Vol. 7, pp. 291-329) 
+* "My First Acquaintance with Poets" by William Hazlitt (GGB  Vol. 5, pp. 260-279) 
+
 
 > [Week 22 (July 10 - July 16, 2023)](https://qingkaikong.github.io/GGB_notes/GGB_week22/):
 
