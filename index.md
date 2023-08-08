@@ -18,6 +18,8 @@ My research lies at the intersection of seismology, civil engineering and data s
 No news is good news. 
 
 <!---
+2023/08/04 Qingkai gives an invited talk at SZ4D workshop
+2023/08/02 Qingkai chairs the Geophysical Signal Processing session at the CASIS workshop at Livermore
 2023/05/30 Qingkai serves as panelist at graduate seminar panel discussion at Victoria University of Wellington
 2023/04/19 Qingkai gives a talk at SSA
 2023/03/16 Qingkai gives guest lecture at Brown University
