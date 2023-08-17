@@ -20,16 +20,22 @@ To finish the GGB, the total pages of this 10 vol set is 5046 pages, so the plan
 
 <center><img src="https://github.com/qingkaikong/qingkaikong.github.io/raw/main/images/progress.jpg" alt="Progress" style="width: 600px;"/></center>
 
-Week 26 (July 31 - August 6, 2023):
+Week 27 (August 14 - August 20, 2023):
 
-* "The Doctor in Spite of Himself" by Moliere (GGB  Vol. 4, pp. 52-81)  
-* "The Way to Write History" by Lucian (GGB  Vol. 6, pp. 384-406) 
+* "The Darling" by Anton Chekhov (GGB  Vol. 3, pp. 448-463)  
+* "Dante" by Thomas Stearns Eliot (GGB  Vol. 5, pp. 367-403) 
 
 ---
 
 ## Done
 
 ### Year 2023
+
+> [Week 26 (August 7 - 13, 2023)](https://qingkaikong.github.io/GGB_notes/GGB_week26/):
+
+* "The Doctor in Spite of Himself" by Moliere (GGB  Vol. 4, pp. 52-81)  
+* "The Way to Write History" by Lucian (GGB  Vol. 6, pp. 384-406) 
+
 
 > [Week 25 (July 31 - August 6, 2023)](https://qingkaikong.github.io/GGB_notes/GGB_week25/):
 
