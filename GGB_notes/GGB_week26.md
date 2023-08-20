@@ -4,9 +4,9 @@ title: Notes
 excerpt: "Notes"
 ---
 
-## Week 25
+## Week 26
 
-<center><img src="https://github.com/qingkaikong/qingkaikong.github.io/raw/main/images/GGB_img/progress_week_25.jpg" alt="Progress" style="width: 600px;"/></center>
+<center><img src="https://github.com/qingkaikong/qingkaikong.github.io/raw/main/images/GGB_img/progress_week_26.jpg" alt="Progress" style="width: 600px;"/></center>
 
 
 Week 26 (July 31 - August 6, 2023):
