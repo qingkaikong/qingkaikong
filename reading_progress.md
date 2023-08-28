@@ -20,17 +20,23 @@ To finish the GGB, the total pages of this 10 vol set is 5046 pages, so the plan
 
 <center><img src="https://github.com/qingkaikong/qingkaikong.github.io/raw/main/images/progress.jpg" alt="Progress" style="width: 600px;"/></center>
 
-Week 28 (August 21 - August 27, 2023):
+Week 29 (August 28 - Sep 3, 2023):
 
-* "Measurement" by Norman Robert Campbell (GGB  Vol. 9, pp. 202-221)  
-* "Numerical Laws and the Use of Mathematics in Science" by Norman Robert Campbell (GGB  Vol. 9, pp. 221-238) 
-* "An Idealist's Arraignment of the Age" by John Ruskin (GGB Vol. 7, pp. 122-136)
+* "The Sacred Bettle" by Jean Henri Fabre (GGB  Vol. 8, pp. 105-119)  
+* "On Time" by Loren Eiseley (GGB  Vol. 8, pp. 120-129) 
+* "The life of Gnaeus Julius Agricola" by Cornelius Tacitus (GGB Vol. 6, pp. 271-298)
 
 ---
 
 ## Done
 
 ### Year 2023
+
+> [Week 28 (August 21 - August 27, 2023)](https://qingkaikong.github.io/GGB_notes/GGB_week28/):
+
+* "Measurement" by Norman Robert Campbell (GGB  Vol. 9, pp. 202-221)  
+* "Numerical Laws and the Use of Mathematics in Science" by Norman Robert Campbell (GGB  Vol. 9, pp. 221-238) 
+* "An Idealist's Arraignment of the Age" by John Ruskin (GGB Vol. 7, pp. 122-136)
 
 > [Week 27 (August 14 - August 20, 2023)](https://qingkaikong.github.io/GGB_notes/GGB_week27/):
 
