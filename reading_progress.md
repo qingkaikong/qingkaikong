@@ -20,17 +20,27 @@ To finish the GGB, the total pages of this 10 vol set is 5046 pages, so the plan
 
 <center><img src="https://github.com/qingkaikong/qingkaikong.github.io/raw/main/images/progress.jpg" alt="Progress" style="width: 600px;"/></center>
 
-Week 30 (Sep 4 - Sep 10, 2023):
+Week 31 (Sep 11 - 17, 2023):
 
-* "The Sunless Sea" by Rachel L. Carson (GGB  Vol. 8, pp. 130-146)  
-* "The Will to Believe" by William James (GGB  Vol. 10, pp. 37-57) 
-* "The Postulates of the Science of Space" by William Kingdom Clifford (GGB Vol. 9, pp. 239-259)
+* "First Love" by Ivan Turgenev (GGB  Vol. 3, pp. 213-271)  
 
 ---
 
 ## Done
 
 ### Year 2023
+
+> [Week 30 (Sep 4 - Sep 10, 2023)](https://qingkaikong.github.io/GGB_notes/GGB_week30/):
+
+* "The Sunless Sea" by Rachel L. Carson (GGB  Vol. 8, pp. 130-146)  
+* "The Will to Believe" by William James (GGB  Vol. 10, pp. 37-57) 
+* "The Postulates of the Science of Space" by William Kingdom Clifford (GGB Vol. 9, pp. 239-259)
+
+> [Week 29 (August 28 - Sep 3, 2023)](https://qingkaikong.github.io/GGB_notes/GGB_week29/):
+
+* "The Sacred Beatle" by Jean Henri Fabre (GGB  Vol. 8, pp. 105-119)  
+* "On Time" by Loren Eiseley (GGB  Vol. 8, pp. 120-129) 
+* "The life of Gnaeus Julius Agricola" by Cornelius Tacitus (GGB Vol. 6, pp. 271-298)
 
 > [Week 28 (August 21 - August 27, 2023)](https://qingkaikong.github.io/GGB_notes/GGB_week28/):
 
