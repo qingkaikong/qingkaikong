@@ -20,15 +20,20 @@ To finish the GGB, the total pages of this 10 vol set is 5046 pages, so the plan
 
 <center><img src="https://github.com/qingkaikong/qingkaikong.github.io/raw/main/images/progress.jpg" alt="Progress" style="width: 600px;"/></center>
 
-Week 31 (Sep 11 - 17, 2023):
+Week 32 (Sep 18 - 24, 2023):
 
-* "First Love" by Ivan Turgenev (GGB  Vol. 3, pp. 213-271)  
+* "The United States in 1800" by Henry Adams (GGB  Vol. 6, pp. 318-359)  
+* "Literature of Knowledge and Literature of Power" by Thomas De Quincey (GGB  Vol. 5, pp. 354-361)  
 
 ---
 
 ## Done
 
 ### Year 2023
+
+Week 31 (Sep 11 - 17, 2023):
+
+* "First Love" by Ivan Turgenev (GGB  Vol. 3, pp. 213-271)  
 
 > [Week 30 (Sep 4 - Sep 10, 2023)](https://qingkaikong.github.io/GGB_notes/GGB_week30/):
 
