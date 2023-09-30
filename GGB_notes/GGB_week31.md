@@ -6,7 +6,7 @@ excerpt: "Notes"
 
 ## Week 31
 
-<center><img src="https://github.com/qingkaikong/qingkaikong.github.io/raw/main/images/GGB_img/progress_week_30.jpg" alt="Progress" style="width: 600px;"/></center>
+<center><img src="https://github.com/qingkaikong/qingkaikong.github.io/raw/main/images/GGB_img/progress_week_31.jpg" alt="Progress" style="width: 600px;"/></center>
 
 
 Week 31 (Sep 11 - 17, 2023):

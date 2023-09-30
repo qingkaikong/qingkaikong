@@ -20,10 +20,11 @@ To finish the GGB, the total pages of this 10 vol set is 5046 pages, so the plan
 
 <center><img src="https://github.com/qingkaikong/qingkaikong.github.io/raw/main/images/progress.jpg" alt="Progress" style="width: 600px;"/></center>
 
-Week 32 (Sep 18 - 24, 2023):
+Week 33 (Sep 24 - Oct 1, 2023):
 
-* "The United States in 1800" by Henry Adams (GGB  Vol. 6, pp. 318-359)  
-* "Literature of Knowledge and Literature of Power" by Thomas De Quincey (GGB  Vol. 5, pp. 354-361)  
+* "Space" by Hentri Poincaré (GGB  Vol. 9, pp. 260-293)  
+* "Mathematical Creation" by Hentri Poincaré (GGB  Vol. 9, pp. 294-304) 
+* "Chance" by Hentri Poincaré (GGB  Vol. 9, pp. 305-320)  
 
 ---
 
@@ -31,7 +32,12 @@ Week 32 (Sep 18 - 24, 2023):
 
 ### Year 2023
 
-Week 31 (Sep 11 - 17, 2023):
+> [Week 32 (Sep 18 - 24, 2023)](https://qingkaikong.github.io/GGB_notes/GGB_week32/):
+
+* "The United States in 1800" by Henry Adams (GGB  Vol. 6, pp. 318-359)  
+* "Literature of Knowledge and Literature of Power" by Thomas De Quincey (GGB  Vol. 5, pp. 354-361)  
+
+> [Week 31 (Sep 11 - 17, 2023)](https://qingkaikong.github.io/GGB_notes/GGB_week31/):
 
 * "First Love" by Ivan Turgenev (GGB  Vol. 3, pp. 213-271)  
 
