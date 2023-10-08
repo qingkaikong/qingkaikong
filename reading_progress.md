@@ -20,17 +20,22 @@ To finish the GGB, the total pages of this 10 vol set is 5046 pages, so the plan
 
 <center><img src="https://github.com/qingkaikong/qingkaikong.github.io/raw/main/images/progress.jpg" alt="Progress" style="width: 600px;"/></center>
 
-Week 33 (Sep 24 - Oct 1, 2023):
+Week 34 (Oct 2 - Oct 8, 2023):
 
-* "Space" by Hentri Poincaré (GGB  Vol. 9, pp. 260-293)  
-* "Mathematical Creation" by Hentri Poincaré (GGB  Vol. 9, pp. 294-304) 
-* "Chance" by Hentri Poincaré (GGB  Vol. 9, pp. 305-320)  
+* "The Philosophy of Common Sense" by Voltaire (GGB  Vol. 10, pp. 451-474)  
+* "The Principle of Population" by Thomas Robert Malthus (GGB  Vol. 7, pp. 498-530) 
 
 ---
 
 ## Done
 
 ### Year 2023
+
+> Week 33 (Sep 24 - Oct 1, 2023):
+
+* "Space" by Hentri Poincaré (GGB  Vol. 9, pp. 260-293)  
+* "Mathematical Creation" by Hentri Poincaré (GGB  Vol. 9, pp. 294-304) 
+* "Chance" by Hentri Poincaré (GGB  Vol. 9, pp. 305-320) 
 
 > [Week 32 (Sep 18 - 24, 2023)](https://qingkaikong.github.io/GGB_notes/GGB_week32/):
 
