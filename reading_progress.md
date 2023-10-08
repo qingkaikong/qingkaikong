@@ -20,16 +20,21 @@ To finish the GGB, the total pages of this 10 vol set is 5046 pages, so the plan
 
 <center><img src="https://github.com/qingkaikong/qingkaikong.github.io/raw/main/images/progress.jpg" alt="Progress" style="width: 600px;"/></center>
 
-Week 34 (Oct 2 - Oct 8, 2023):
+Week 35 (Oct 9 - Oct 15, 2023):
 
-* "The Philosophy of Common Sense" by Voltaire (GGB  Vol. 10, pp. 451-474)  
-* "The Principle of Population" by Thomas Robert Malthus (GGB  Vol. 7, pp. 498-530) 
+* "Micromégas" by Voltaire (GGB  Vol. 2, pp. 237-256)  
+* "Rappaccini's Daughter" by Nathaniel Hawthorne (GGB  Vol. 3, pp. 124-152) 
 
 ---
 
 ## Done
 
 ### Year 2023
+
+> Week 34 (Oct 2 - Oct 8, 2023):
+
+* "The Philosophy of Common Sense" by Voltaire (GGB  Vol. 10, pp. 451-474)  
+* "The Principle of Population" by Thomas Robert Malthus (GGB  Vol. 7, pp. 498-530) 
 
 > Week 33 (Sep 24 - Oct 1, 2023):
 
