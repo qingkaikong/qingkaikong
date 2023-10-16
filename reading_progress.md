@@ -20,16 +20,23 @@ To finish the GGB, the total pages of this 10 vol set is 5046 pages, so the plan
 
 <center><img src="https://github.com/qingkaikong/qingkaikong.github.io/raw/main/images/progress.jpg" alt="Progress" style="width: 600px;"/></center>
 
-Week 35 (Oct 9 - Oct 15, 2023):
+Week 36 (Oct 16 - 22, 2023):
 
-* "Micromégas" by Voltaire (GGB  Vol. 2, pp. 237-256)  
-* "Rappaccini's Daughter" by Nathaniel Hawthorne (GGB  Vol. 3, pp. 124-152) 
+* "A Call to Patriots" by Thomas Paine (GGB  Vol. 6, pp. 457-468)  
+* "Circular Letter to the Governors of All the States" and "The Farewell Address" by George Washington (GGB  Vol. 6, pp. 469-497) 
+* "Montaigne" by Ralph Waldo Emerson (GGB  Vol. 10, pp. 546-562) 
 
 ---
 
 ## Done
 
 ### Year 2023
+
+> Week 35 (Oct 9 - Oct 15, 2023):
+
+* "Micromégas" by Voltaire (GGB  Vol. 2, pp. 237-256)  
+* "Rappaccini's Daughter" by Nathaniel Hawthorne (GGB  Vol. 3, pp. 124-152) 
+
 
 > Week 34 (Oct 2 - Oct 8, 2023):
 
