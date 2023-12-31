@@ -20,36 +20,47 @@ To finish the GGB, the total pages of this 10 vol set is 5046 pages, so the plan
 
 <center><img src="https://github.com/qingkaikong/qingkaikong.github.io/raw/main/images/progress.jpg" alt="Progress" style="width: 600px;"/></center>
 
-Week 37 (Oct 23 - 29, 2023):
+> Week 38 (Jan 1 - 7, 2023):
 
-* "Probability" by Pierre Simon De Laplace (GGB  Vol. 9, pp. 321-338)  
-* "The Red and the Black" by Charles Sanders Peirce (GGB  Vol. 9, pp. 339-348) 
-* "The Tell-Tale Heart" and "The Masque of the Red Death" by Edgar Allan Poe (GGB  Vol. 2, pp. 269-283) 
+* "Perpetul Peace" by Immanuel Kant (GGB  Vol. 7, pp. 437-475)  
+* "An Essay on Modern Education" and "The Farewell Address" by George Washington (GGB  Vol. 7, pp. 33-41) 
+* "Of Riches" by Francis Bacon (GGB  Vol. 7, pp. 25-27) 
+
 
 ---
 
 ## Done
 
+### Year 2024
+
+
+
 ### Year 2023
 
-> Week 36 (Oct 16 - 22, 2023):
+> [Week 37 (Oct 23 - 29, 2023)](https://qingkaikong.github.io/GGB_notes/GGB_week32/):
+
+* "Probability" by Pierre Simon De Laplace (GGB  Vol. 9, pp. 321-338)  
+* "The Red and the Black" by Charles Sanders Peirce (GGB  Vol. 9, pp. 339-348) 
+* "The Tell-Tale Heart" and "The Masque of the Red Death" by Edgar Allan Poe (GGB  Vol. 2, pp. 269-283) 
+
+> [Week 36 (Oct 16 - 22, 2023)](https://qingkaikong.github.io/GGB_notes/GGB_week36/):
 
 * "A Call to Patriots" by Thomas Paine (GGB  Vol. 6, pp. 457-468)  
 * "Circular Letter to the Governors of All the States" and "The Farewell Address" by George Washington (GGB  Vol. 6, pp. 469-497) 
 * "Montaigne" by Ralph Waldo Emerson (GGB  Vol. 10, pp. 546-562) 
 
-> Week 35 (Oct 9 - Oct 15, 2023):
+> [Week 35 (Oct 9 - Oct 15, 2023)](https://qingkaikong.github.io/GGB_notes/GGB_week35/):
 
 * "Micromégas" by Voltaire (GGB  Vol. 2, pp. 237-256)  
 * "Rappaccini's Daughter" by Nathaniel Hawthorne (GGB  Vol. 3, pp. 124-152) 
 
 
-> Week 34 (Oct 2 - Oct 8, 2023):
+> [Week 34 (Oct 2 - Oct 8, 2023)](https://qingkaikong.github.io/GGB_notes/GGB_week34/):
 
 * "The Philosophy of Common Sense" by Voltaire (GGB  Vol. 10, pp. 451-474)  
 * "The Principle of Population" by Thomas Robert Malthus (GGB  Vol. 7, pp. 498-530) 
 
-> Week 33 (Sep 24 - Oct 1, 2023):
+> [Week 33 (Sep 24 - Oct 1, 2023)](https://qingkaikong.github.io/GGB_notes/GGB_week33/):
 
 * "Space" by Hentri Poincaré (GGB  Vol. 9, pp. 260-293)  
 * "Mathematical Creation" by Hentri Poincaré (GGB  Vol. 9, pp. 294-304) 
