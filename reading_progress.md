@@ -20,12 +20,9 @@ To finish the GGB, the total pages of this 10 vol set is 5046 pages, so the plan
 
 <center><img src="https://github.com/qingkaikong/qingkaikong.github.io/raw/main/images/progress.jpg" alt="Progress" style="width: 600px;"/></center>
 
-> Week 38 (Jan 1 - 7, 2023):
+> Week 39 (Jan 8 - 14, 2023):
 
-* "Perpetul Peace" by Immanuel Kant (GGB  Vol. 7, pp. 437-475)  
-* "An Essay on Modern Education" and "The Farewell Address" by George Washington (GGB  Vol. 7, pp. 33-41) 
-* "Of Riches" by Francis Bacon (GGB  Vol. 7, pp. 25-27) 
-
+* "A Full and Faithful Report of the Memorable Trail of Bardell against Pickwick" by Charles Dickens (GGB  Vol. 2, pp. 387-448)  
 
 ---
 
@@ -33,11 +30,15 @@ To finish the GGB, the total pages of this 10 vol set is 5046 pages, so the plan
 
 ### Year 2024
 
+> [Week 38 (Jan 1 - 7, 2023)](https://qingkaikong.github.io/GGB_notes/GGB_week38/):
 
+* "Perpetul Peace" by Immanuel Kant (GGB  Vol. 7, pp. 437-475)  
+* "An Essay on Modern Education" and "A meditation upon a Broomstick" by Jonathan Swift (GGB  Vol. 7, pp. 33-41) 
+* "Of Riches" by Francis Bacon (GGB  Vol. 7, pp. 25-27) 
 
 ### Year 2023
 
-> [Week 37 (Oct 23 - 29, 2023)](https://qingkaikong.github.io/GGB_notes/GGB_week32/):
+> [Week 37 (Oct 23 - 29, 2023)](https://qingkaikong.github.io/GGB_notes/GGB_week37/):
 
 * "Probability" by Pierre Simon De Laplace (GGB  Vol. 9, pp. 321-338)  
 * "The Red and the Black" by Charles Sanders Peirce (GGB  Vol. 9, pp. 339-348) 
